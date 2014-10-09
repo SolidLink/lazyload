@@ -1,5 +1,4 @@
-/* lazyload.js (c) Lorenzo Giuliani
- * MIT License (http://www.opensource.org/licenses/mit-license.html)
+/*
  *
  * expects a list of:  
  * `<img src="blank.gif" data-src="my_image.png" width="600" height="400" class="lazy">`
